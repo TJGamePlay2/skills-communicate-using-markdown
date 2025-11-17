@@ -11,3 +11,7 @@
 ``` python
 print("Screw you TJ")
 ```
+
+- [ ] Do yo thing girl
+- [x] Talk abt it girl
+- [ ] Oh yeah oh yeah
